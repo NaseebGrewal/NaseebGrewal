@@ -1,4 +1,4 @@
-<img src="banner_github.png" alt="GitHub Banner" width="100%" />
+<img src="github-banner.jpg" alt="GitHub Banner" width="100%" />
 
 # Welcome to My profile on Github!, I'm Naseeb, AI Engineer 👋🏼:
 👨‍💻 AI Engineer <br> 🛜 Currently working on Cool AI Projects <br>👨🏼‍🎓 M.Sc. in Applied Computer Science
