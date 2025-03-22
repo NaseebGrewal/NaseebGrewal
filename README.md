@@ -14,7 +14,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NaseebGrewal/NaseebGrewal/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NaseebGrewal/NaseebGrewal/output/github-snake.svg" />
-<p align="center"><img alt="github-snake" src="https://raw.githubusercontent.com/NaseebGrewal/NaseebGrewal/output/github-snake.svg" /></p>
+  <p align="center"><img alt="github-snake" src="https://raw.githubusercontent.com/NaseebGrewal/NaseebGrewal/output/github-snake.svg" /></p>
 </picture>
 
 
