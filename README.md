@@ -5,8 +5,9 @@
 
 
 # 💻 Tech Stack:
-<img src="https://skillicons.dev/icons?i=azure,aws,kubernetes,terraform,linux,docker,grafana" /><br>
-<img src="https://skillicons.dev/icons?i=html,py,c,cpp,mysql,mongodb,redis,css,js" /><br>
+<img src="https://skillicons.dev/icons?i=azure,aws,kubernetes,terraform,linux,docker,jenkins,grafana" /><br>
+<img src="https://skillicons.dev/icons?i=py,c,cpp,java,js,html,css" /><br>
+<img src="https://skillicons.dev/icons?i=mongodb,redis" /><br>
 <img src="https://skillicons.dev/icons?i=git,github,gitlab,postman" /><br><br>
 <p align="left">
 </p>
