@@ -1,6 +1,6 @@
 <img src="github-banner.jpg" alt="GitHub Banner" width="100%" />
 
-# Welcome to My Github profile!, I'm Naseeb, AI Engineer 👋🏼:
+<h1 align="center">Welcome to My Github profile!, I'm Naseeb, AI Engineer 👋🏼</h1>
 👨‍💻 AI Engineer <br> 🛜 Currently working on Cool AI Projects <br>👨🏼‍🎓 M.Sc. in Applied Computer Science
 
 
