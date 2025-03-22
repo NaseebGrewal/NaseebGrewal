@@ -6,7 +6,9 @@
 
 
 <h2>Statistics</h2>
-<p align="center"><img align="center" height="165px" src="https://github-readme-stats.vercel.app/api?username=NaseebGrewal&count_private=true&show_icons=true&theme=tokyonight" /><img align="center" height="165px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaseebGrewal&layout=compact&theme=aura&langs_count=9" />
+<p align="center">
+  <img align="center" height="165px" src="https://github-readme-stats.vercel.app/api?username=NaseebGrewal&count_private=true&show_icons=true&theme=tokyonight" />
+  <img align="center" height="165px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaseebGrewal&layout=compact&theme=aura&langs_count=9" />
 </p>
 
 <br>
