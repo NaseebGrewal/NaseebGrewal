@@ -29,13 +29,13 @@
 <h2 align="left">Let's Connect</h2>
 <p style="display: flex;">
   <a target="_blank" href="https://www.xing.com/profile/Naseeb_Grewal/">
-    <img width="48" height="48px" src="https://github.com/mashb1t/mashb1t/assets/9307310/a5894575-34db-4e03-9235-5e7233606c4d">
+    <img width="48" height="48px" src="https://github.com/user-attachments/assets/56e8241e-f16e-406c-b711-baa25721ff7b">
   </a>
   <a style="margin-left: 10px;" target="_blank" href="https://www.linkedin.com/in/naseeb-grewal-2ba320161/">
-    <img width="48" height="48px" src="https://github.com/mashb1t/mashb1t/assets/9307310/9a27dce2-ffe6-47f3-a2f1-6140d55edd13">
+    <img width="48" height="48px" src="https://github.com/user-attachments/assets/7babb58d-00a7-4e85-8785-df45497ae115">
   </a>
   <a style="margin-left: 10px;" target="_blank" href="https://paypal.me/naseebgrewal">
-    <img width="48" src="https://github.com/mashb1t/mashb1t/assets/9307310/5a6900b3-9fe0-402a-80a7-bef8df11598c">
+    <img width="48" src="https://github.com/user-attachments/assets/be1c4282-5b9e-4496-b7be-7f5c3537784e">
   </a>
 </p>
 
