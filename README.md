@@ -4,14 +4,6 @@
 👨‍💻 AI Engineer <br> 🛜 Currently working on Cool AI Projects <br>👨🏼‍🎓 M.Sc. in Applied Computer Science
 
 
-# 💻 Tech Stack:
-<img src="https://skillicons.dev/icons?i=azure,aws,kubernetes,terraform,linux,docker,jenkins,grafana" /><br>
-<img src="https://skillicons.dev/icons?i=py,c,cpp,java,js,html,css" /><br>
-<img src="https://skillicons.dev/icons?i=mongodb,redis" /><br>
-<img src="https://skillicons.dev/icons?i=git,github,gitlab,postman" /><br><br>
-<p align="left">
-</p>
-
 
 <h2>Statistics</h2>
 <p align="center"><img align="center" height="165px" src="https://github-readme-stats.vercel.app/api?username=naseebgrewal&count_private=true&show_icons=true&theme=tokyonight" /><img align="center" height="165px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naseebgrewal&layout=compact&theme=aura&langs_count=9" />
@@ -23,6 +15,14 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/NaseebGrewal/NaseebGrewal/output/github-snake.svg" />
 </picture>
 
+
+# 💻 Tech Stack:
+<img src="https://skillicons.dev/icons?i=azure,aws,kubernetes,terraform,linux,docker,jenkins,grafana" /><br>
+<img src="https://skillicons.dev/icons?i=py,c,cpp,java,js,html,css" /><br>
+<img src="https://skillicons.dev/icons?i=mongodb,redis" /><br>
+<img src="https://skillicons.dev/icons?i=git,github,gitlab,postman" /><br><br>
+<p align="left">
+</p>
 
 <h2 align="left">Let's Connect</h2>
 <p style="display: flex;">
