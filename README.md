@@ -1,6 +1,6 @@
 <img src="github-banner.jpg" alt="GitHub Banner" width="100%" />
 
-<h1 align="center">Welcome to My Github profile!, I'm Naseeb, AI Engineer 👋🏼</h1>
+<h1 align="center">Hi, Welcome to my Github profile!, I'm Naseeb 👋🏼</h1>
 AI Engineer 🤖 | Digital Scientist 🔬 | Generative AI & Software Engineer 🧠 | M.Sc in Applied Computer Science graduate 🚀
 
 Currently building my own website (because who needs sleep, right?) 💻✨ and working on some super cool AI projects that may or may not involve robots taking over the world… 🤫
@@ -31,7 +31,7 @@ Let’s code something awesome! 👾
 
 
 
-# 💻 Tech Stack:
+## 💻 Tech Stack:
 <img src="https://skillicons.dev/icons?i=azure,aws,kubernetes,terraform,linux,docker,jenkins,grafana" /><br>
 <img src="https://skillicons.dev/icons?i=py,c,cpp,java,ts,js,html,css" /><br>
 <img src="https://skillicons.dev/icons?i=mongodb,redis" /><br>
