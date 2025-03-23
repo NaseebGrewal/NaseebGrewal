@@ -1,7 +1,11 @@
 <img src="github-banner.jpg" alt="GitHub Banner" width="100%" />
 
 <h1 align="center">Welcome to My Github profile!, I'm Naseeb, AI Engineer 👋🏼</h1>
-👨‍💻 AI Engineer <br> 🛜 Currently working on Cool AI Projects <br>👨🏼‍🎓 M.Sc. Applied Computer Science
+AI Engineer 🤖 | Digital Scientist 🔬 | Generative AI & Software Engineer 🧠 | M.Sc in Applied Computer Science graduate 🚀
+
+Currently building my own website (because who needs sleep, right?) 💻✨ and working on some super cool AI projects that may or may not involve robots taking over the world… 🤫
+
+Let’s code something awesome! 👾
 
 
 
