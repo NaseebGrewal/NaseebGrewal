@@ -16,8 +16,8 @@ jobs:
       - name: Read Current README.md
         id: read-file
         run: |
-          # Extract current cache_seconds value or default to 60 if not found
-          CACHE_SECONDS=$(grep -oP 'cache_seconds=\K\d+' README.md || echo 60)
+          # Extract the first occurrence of cache_seconds value or default to 60 if not found
+          CACHE_SECONDS=$(grep -oP 'cache_seconds=\K\d+' README.md | head -n 1 || echo 60)
           
           # Trim any potential leading or trailing spaces
           CACHE_SECONDS=$(echo "$CACHE_SECONDS" | xargs)
@@ -40,8 +40,8 @@ jobs:
 
       - name: Update README.md
         run: |
-          # Replace cache_seconds value in README.md
-          sed -i "s/cache_seconds=[0-9]\+/cache_seconds=${NEW_CACHE_SECONDS}/g" README.md
+          # Replace all occurrences of cache_seconds in README.md with the new value
+          sed -i "s/cache_seconds=$CACHE_SECONDS/cache_seconds=$NEW_CACHE_SECONDS/g" README.md
           echo "Updated README.md with cache_seconds=${NEW_CACHE_SECONDS}"
 
       - name: Commit and Push Changes
