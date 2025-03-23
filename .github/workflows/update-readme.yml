@@ -20,8 +20,8 @@ jobs:
           CACHE_SECONDS=$(grep -oP 'cache_seconds=\K\d+' README.md)
           echo "Current cache_seconds: $CACHE_SECONDS"
           
-          # Decrease cache_seconds by 1
-          NEW_CACHE_SECONDS=$((CACHE_SECONDS - 1))
+          # Increases cache_seconds by 1
+          NEW_CACHE_SECONDS=$((CACHE_SECONDS + 1))
 
           # Store the new value for later steps
           echo "NEW_CACHE_SECONDS=$NEW_CACHE_SECONDS" >> $GITHUB_ENV
