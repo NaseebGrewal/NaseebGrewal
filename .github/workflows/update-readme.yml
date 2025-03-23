@@ -17,7 +17,7 @@ jobs:
         id: read-file
         run: |
           # Extract current cache_seconds value 
-          CACHE_SECONDS=$(grep -oP 'cache_seconds=\K\d+' README.md || echo 60)
+          CACHE_SECONDS=$(grep -oP 'cache_seconds=\K\d+' README.md)
           echo "Current cache_seconds: $CACHE_SECONDS"
           
           # Decrease cache_seconds by 1
