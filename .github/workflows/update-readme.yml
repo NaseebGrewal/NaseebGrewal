@@ -16,15 +16,23 @@ jobs:
       - name: Read Current README.md
         id: read-file
         run: |
-          # Extract current cache_seconds value 
-          CACHE_SECONDS=$(grep -oP 'cache_seconds=\K\d+' README.md)
+          # Extract current cache_seconds value or default to 60 if not found
+          CACHE_SECONDS=$(grep -oP 'cache_seconds=\K\d+' README.md || echo 60)
+          
           echo "Current cache_seconds: $CACHE_SECONDS"
+          
+          # Ensure CACHE_SECONDS is a valid number
+          if ! [[ "$CACHE_SECONDS" =~ ^[0-9]+$ ]]; then
+            echo "Invalid cache_seconds value, resetting to 60."
+            CACHE_SECONDS=60
+          fi
           
           # Increases cache_seconds by 1
           NEW_CACHE_SECONDS=$((CACHE_SECONDS + 1))
-
+          
           # Store the new value for later steps
           echo "NEW_CACHE_SECONDS=$NEW_CACHE_SECONDS" >> $GITHUB_ENV
+
 
       - name: Update README.md
         run: |
