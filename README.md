@@ -34,8 +34,7 @@ Let’s code something awesome! 👾
 ## 💻 Tech Stack:
 <img src="https://skillicons.dev/icons?i=azure,aws,kubernetes,terraform,linux,docker,jenkins,grafana" /><br>
 <img src="https://skillicons.dev/icons?i=py,c,cpp,java,ts,js,html,css" /><br>
-<img src="https://skillicons.dev/icons?i=mongodb,redis" /><br>
-<img src="https://skillicons.dev/icons?i=git,github,gitlab,postman" /><br><br>
+<img src="https://skillicons.dev/icons?i=git,github,gitlab,postman,mongodb,redis" /><br>
 <p align="left">
 </p>
 
