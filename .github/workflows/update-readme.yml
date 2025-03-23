@@ -2,7 +2,7 @@ name: Update GitHub Stats in README
 
 on:
   schedule:
-    - cron: "*/60 * * * *"  # workflow to every 60 mins
+    - cron: "0 0 * * *"  # workflow to daily at midnight
   workflow_dispatch:  # Allows manual trigger
 
 jobs:
