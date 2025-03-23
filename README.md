@@ -9,15 +9,17 @@
 <p align="center">
   <img align="center" height="165px" src="https://github-readme-stats.vercel.app/api?username=NaseebGrewal&count_private=true&show_icons=true&theme=tokyonight" />
   <img align="center" height="165px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaseebGrewal&layout=compact&theme=aura&langs_count=9" />
-</p>
-
-<br>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NaseebGrewal/NaseebGrewal/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NaseebGrewal/NaseebGrewal/output/github-snake.svg" />
   <p align="center"><img alt="github-snake" src="https://raw.githubusercontent.com/NaseebGrewal/NaseebGrewal/output/github-snake.svg" /></p>
 </picture>
+  
+</p>
+
+<br>
+
+
 
 
 # 💻 Tech Stack:
