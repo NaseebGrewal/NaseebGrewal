@@ -41,7 +41,7 @@ jobs:
       - name: Update README.md
         run: |
           # Replace all occurrences of cache_seconds in README.md with the new value
-          sed -i "s/cache_seconds=$CACHE_SECONDS/cache_seconds=$NEW_CACHE_SECONDS/g" README.md
+          sed -i "s/cache_seconds=[0-9]\+/cache_seconds=${NEW_CACHE_SECONDS}/g" README.md
           echo "Updated README.md with cache_seconds=${NEW_CACHE_SECONDS}"
 
       - name: Commit and Push Changes
