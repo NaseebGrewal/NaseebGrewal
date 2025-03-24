@@ -5,7 +5,8 @@
 AI Engineer 🤖 | Digital Scientist 🔬 | Generative AI & Software Engineer 🧠 | M.Sc in Applied Computer Science graduate 🚀 <br>
 Currently building my own website (because who needs sleep, right?) 💻✨ and working on some super cool AI projects that may or may not involve robots taking over the world… 🤫
 
-Check out my blogs 📖 <a href="https://medium.com/@naseebgrewal">Tech Guy Writes</a><br><br>
+Check out my blogs 📖 <a href="https://medium.com/@naseebgrewal">Tech Guy Writes</a><br>
+Indulge yourself in my <a href="https://imgur.com/user/ngrewal/posts"> AI Gallery</a><br><br>
 Let’s code something awesome! 👾
 </p>
 
