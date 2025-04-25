@@ -12,8 +12,8 @@ Let’s code something awesome! 👾
 
 <h2>Statistics</h2>
 <p align="center">
-  <img align="center" height="165px" src="https://github-readme-stats.vercel.app/api?username=NaseebGrewal&count_private=true&show_icons=true&theme=tokyonight&cache_seconds=97" />
-  <img align="center" height="165px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaseebGrewal&layout=compact&theme=aura&langs_count=10&cache_seconds=97" />
+  <img align="center" height="165px" src="https://github-readme-stats.vercel.app/api?username=NaseebGrewal&count_private=true&show_icons=true&theme=tokyonight&cache_seconds=98" />
+  <img align="center" height="165px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaseebGrewal&layout=compact&theme=aura&langs_count=10&cache_seconds=98" />
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NaseebGrewal/NaseebGrewal/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NaseebGrewal/NaseebGrewal/output/github-snake.svg" />
