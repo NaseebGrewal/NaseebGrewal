@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi, Welcome to my Github profile!, I'm Naseeb 👋🏼</h1>
 <p>
-AI Engineer 🤖 | Digital Scientist 🔬 | Generative AI & Software Engineer 🧠 | M.Sc in Applied Computer Science graduate 🚀 <br>
+AI Engineer 🤖 | Digital Scientist 🔬 <br>
 Currently building my own website (because who needs sleep, right?) 💻✨ and working on some super cool AI projects that may or may not involve robots taking over the world… 🤫
 
 Check out my blogs 📖 <a href="https://medium.com/@naseebgrewal">Tech Guy Writes</a><br>
