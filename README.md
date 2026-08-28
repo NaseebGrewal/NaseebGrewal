@@ -44,7 +44,7 @@ Let’s code something awesome! 👾
   <a target="_blank" href="https://www.xing.com/profile/Naseeb_Grewal/">
     <img width="48" height="48px" src="https://github.com/user-attachments/assets/56e8241e-f16e-406c-b711-baa25721ff7b">
   </a>
-  <a style="margin-left: 10px;" target="_blank" href="https://www.linkedin.com/in/naseeb-grewal-2ba320161/">
+  <a style="margin-left: 10px;" target="_blank" href="https://www.linkedin.com/in/naseebgrewal/">
     <img width="48" height="48px" src="https://github.com/user-attachments/assets/7babb58d-00a7-4e85-8785-df45497ae115">
   </a>
   <a style="margin-left: 10px;" target="_blank" href="https://paypal.me/naseebgrewal">
